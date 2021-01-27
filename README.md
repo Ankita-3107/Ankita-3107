@@ -10,8 +10,8 @@
 
 
 
-- 🔭 I’m currently working on Rizzie-MODELX1..
-- 🌱 I’m currently learning Java, React, Python, HTML, CSS..
+- 🔭 I’m currently working on Rizzie-MODELX1
+- 🌱 I’m currently learning Java, React, Python, HTML, CSS
 - 📫 How to reach me: https://discord.bio/p/seeker
 - 😄 Pronouns: Mumu
 - ⚡ Fun fact: Will be a professor at Cambridge University

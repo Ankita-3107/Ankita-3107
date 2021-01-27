@@ -8,4 +8,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ankita-3107&repo=Ankita.Saikia__ONLINE.PORTFOLIO&theme=material-palenight" />
 </a>  
 
+- 🔭 I’m currently working on Rizzie-MODELX1..
+- 🌱 I’m currently learning Java, React, Python, HTML, CSS..
+- 📫 How to reach me: https://discord.bio/p/seeker
+- 😄 Pronouns: Mumu
+- ⚡ Fun fact: Will be a professor at Cambridge University
+
+
 
